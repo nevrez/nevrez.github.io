@@ -11,8 +11,8 @@ I am currently employed as a Senior Researcher at National Institute of Advanced
 
 **Please contact me if you are interested in Post-doc, internship, research assitantship with me or our team.**
 
-**Geoinformation Service Research Team,** \\
-**Digital Architecture Research Center,** \\
+**Geoinformation Service Research Team,** 
+**Digital Architecture Research Center,** 
 **National Institute of Advanced Industrial Science and Technology (AIST), Tokyo JAPAN** 
 
 # Current Interests and Projects:
