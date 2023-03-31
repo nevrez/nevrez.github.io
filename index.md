@@ -5,12 +5,14 @@ menutitle: Home
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am currently employed as a Senior Researcher at National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan since April 2016. Before AIST, I was with RIKEN Brain Science Institute as a Researcher & JSPS Foreign Postdoctoral Fellow in 2015-2016. I received the Ph.D. degree from Chiba University (2015), Japan, with a Japanese Government scholarship (MEXT). I was also with School of Computer Eng., Nanyang Technbological University, Singapore as a Research Associate 2010-2011. I received the M.S. and B.S. degrees from TOBB University of Economics and Technology (Ankara, Turkey) and Cankaya University (Ankara, Turkey) in 2010 and 2007. My research interests include applications of computer vision and machine learning, recently with special interests on deep learning for multi-modal or multi-temporal signal/image analysis, visual attention (saliency detection), classification/object detection/segmentation on various sensory data (3D, optical, multispectral, hyperspectral).
+
+## Please contact me if you are interested in Post-doc, internship, research assitantship with me or our team.
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+#- Lorem ipsum dolor sit amet
+#- Lorem ipsum dolor sit amet
+#- DLorem ipsum dolor sit amet
+#- Lorem ipsum dolor sit amet
+#- Lorem ipsum dolor sit amet
