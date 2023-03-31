@@ -11,19 +11,23 @@ National Institute of Advanced Industrial Science and Technology
 
 `2012 - 2015`
 __Chiba University__
-Ph.D Degree at Graduate School of Engineering
+Ph.D Degree 
+Graduate School of Engineering
 
 `2007 - 2010`
 __TOBB University of Economics and Technology__
-M.S. at Electrical and Electronics Engineering 
+M.S. Degree 
+Electrical and Electronics Engineering 
 
 `2003 - 2007`
 __Cankaya University__
-B.S. (Double Major) at Electronics and Communication Engineering 
+B.S. (Double Major) Degree
+Electronics and Communication Engineering 
 
 `2003 - 2007`
 __Cankaya University__
-B.S. at Computer Engineering 
+B.S. Degree
+Computer Engineering 
 
 ## Awards
 
