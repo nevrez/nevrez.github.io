@@ -4,18 +4,26 @@ menuorder: 3
 menutitle: Resume
 ---
 ## Currently
-
-Current Position Description
+`Senior Researcher`
+National Institute of Advanced Industrial Science and Technology
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2012 - 2015`
+__Chiba University__
+Ph.D Degree at Graduate School of Engineering
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2007 - 2010`
+__TOBB University of Economics and Technology__
+M.S. at Electrical and Electronics Engineering 
+
+`2003 - 2007`
+__Cankaya University__
+B.S. (Double Major) at Electronics and Communication Engineering 
+
+`2003 - 2007`
+__Cankaya University__
+B.S. at Computer Engineering 
 
 ## Awards
 
