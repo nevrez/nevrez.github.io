@@ -15,8 +15,10 @@ I am currently employed as a Senior Researcher at National Institute of Advanced
 
 # Current Interests and Projects:
 
+<!--
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
 - DLorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
+-->
