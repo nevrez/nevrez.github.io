@@ -9,10 +9,14 @@ I am currently employed as a Senior Researcher at National Institute of Advanced
 
 ## Please contact me if you are interested in Post-doc, internship, research assitantship with me or our team.
 
-## Current Interests and Projects:
+## Geoinformation Service Research Team, 
+## Digital Architecture Research Center,
+## National Institute of Advanced Industrial Science and Technology (AIST), Tokyo JAPAN 
 
-#- Lorem ipsum dolor sit amet
-#- Lorem ipsum dolor sit amet
-#- DLorem ipsum dolor sit amet
-#- Lorem ipsum dolor sit amet
-#- Lorem ipsum dolor sit amet
+# Current Interests and Projects:
+
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- DLorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
