@@ -53,7 +53,7 @@ List of publication is also available [online at Google Scholar](https://scholar
 
 ## Patents/Patent Applications
 
-自律移動ロボット及びバイタルサインモニタリング方法，文偉 兪, 文偉 兪, 松井　岳巳, 岳巳 松井, 光鎬 孫, 光鎬 孫, イマモル ネブレズ (Nevrez Imamoglu),[JP6823327B2](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6823327/884C019641743B7CFB9F4C8B887139A479B28400C45172A612F82E9D67DE93D1/15/ja)
+自律移動ロボット及びバイタルサインモニタリング方法，文偉 兪, 文偉 兪, 松井　岳巳, 岳巳 松井, 光鎬 孫, 光鎬 孫, イマモル ネブレズ (Nevrez Imamoglu), [JP6823327B2](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6823327/884C019641743B7CFB9F4C8B887139A479B28400C45172A612F82E9D67DE93D1/15/ja)
 
 <!--
 ### Journals
