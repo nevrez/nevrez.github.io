@@ -36,8 +36,8 @@ Name of Award, Organization
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
+List of publication is also available [online at Google Scholar](https://scholar.google.com/citations?hl=en&user=VJgx61MAAAAJ&view_op=list_works&sortby=pubdate)
+<!--
 ### Journals
 
 `1994`
@@ -74,11 +74,11 @@ __Current Job Title__, Current Employer
 
 - Task
 - Task
-
+--!>
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2023 -->
 
 
