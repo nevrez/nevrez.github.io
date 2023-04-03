@@ -16,9 +16,10 @@ My research interests include applications of computer vision and machine learni
 **Digital Architecture Research Center,** 
 **National Institute of Advanced Industrial Science and Technology (AIST), Tokyo JAPAN** 
 
+<!--
 # Current Interests and Projects:
 
-<!--
+
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
 - DLorem ipsum dolor sit amet
