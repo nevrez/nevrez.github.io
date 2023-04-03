@@ -32,7 +32,7 @@ Computer Engineering
 ## Awards, Fellowships, Scholarships
 
 `2015 - 2016`
-JSPS Postdoctoral Fellowships for Foeign Researchers, JSPS with host institituion RIKEN Brain Science Institute.
+JSPS Postdoctoral Fellowships for Foeign Researchers, from JSPS as host institution RIKEN Brain Science Institute.
 
 `2015/03/25`
 Graduate School of Engineering Dean Award for Outstanding Academic Performance, Graduate School of Engineering, Chiba University.  
