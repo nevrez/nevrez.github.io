@@ -3,7 +3,6 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
 
 `2016 - ~`
 National Institute of Advanced Industrial Science and Technology,
