@@ -4,9 +4,10 @@ menuorder: 3
 menutitle: Resume
 ---
 ## Currently
+
 `2016 - ~`
-National Institute of Advanced Industrial Science and Technology
-Senior Researcher
+National Institute of Advanced Industrial Science and Technology,
+__Senior Researcher__
 
 ## Education
 
