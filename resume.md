@@ -4,8 +4,9 @@ menuorder: 3
 menutitle: Resume
 ---
 ## Currently
-`Senior Researcher`
+`2016 - ~`
 National Institute of Advanced Industrial Science and Technology
+Senior Researcher
 
 ## Education
 
@@ -21,7 +22,7 @@ Electrical and Electronics Engineering
 
 `2003 - 2007`
 __Cankaya University__
-B.S. (Double Major) Degree
+B.S. Degree (Double Major)
 Electronics and Communication Engineering 
 
 `2003 - 2007`
